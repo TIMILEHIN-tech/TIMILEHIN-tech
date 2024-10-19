@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TIMILEHIN-tech
 - 👀 I’m interested in ...Sql Server Database Administrator and DAta Analysis
-- 🌱 I’m currently learning ... data analysis
-- 💞️ I’m looking to collaborate on ... both Sql s\Server Database Administrator and Data Analysis
+- 🌱 I’m currently learning ... Data Analysis
+- 💞️ I’m looking to collaborate on ... both Sql Server Database Administrator and Data Analysis
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
